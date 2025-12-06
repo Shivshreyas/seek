@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import './Canvas.css';
 
-const TMDB_BASE = 'http://52.33.176.184/tmdbbd/';
+const TMDB_BASE = 'https://image.tmdb.org/t/p/original/';
 const TMDB_IMAGES = [
     '-oZDram5xlRnoahMnIGvR1WfxvGqsCZICF-rp7zmIMc.jpg', '-ov2L-E21WpsUnJvb6aKzz9Gy1QEXmUwxKdky6kiU80.jpg',
     '0lw1HLUl6UmSG-WEpXA_vwqluusYcsby72AiInETWkM.jpg', '1ABCxvHc6asgPPD9agprtojh5sM.jpg',
